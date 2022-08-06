@@ -25,6 +25,7 @@ Next step is run it using npm start shortcut (it starting index.js file)
 ```
 $ npm start
 ```
+Right now you need to open your browser and go to: http://localhost:3000/
 
 ## Without Git
 When downloading materials to your laptop, it is easiest to download the entire repository. To do this, go to the GitHub page for the workshop, click on the green Code button, then download the repository as a ZIP file.
