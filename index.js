@@ -28,3 +28,4 @@ app.use('/order', orderRouter)
 
 
 app.listen(3000, 'localhost')
+console.log('Express started on http://localhost:3000');
